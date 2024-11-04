@@ -9,7 +9,7 @@ Gracias a LittleBigPlanet decidí tomar este camino en el desarrollo de videojue
 * ⚡  Amo a mi novia <3
 
 <a href="https://www.github.com/bruwwu" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/bruwwu?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
-<a href="https://www.x.com/bru" target="_blank" rel="noreferrer"><img src="https://img.shields.io/twitter/follow/bru?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+<a href="https://www.x.com/BTuwu91200" target="_blank" rel="noreferrer"><img src="https://img.shields.io/twitter/follow/bru?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
 ---
 
