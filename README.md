@@ -1,4 +1,4 @@
-# Hi ![](blob:https://web.whatsapp.com/dd8cdb76-5d26-4db9-bde5-7907009ec22e) My name is Bruwwu
+# Hi my name is Bruwwu ![](https://media1.tenor.com/m/hWHI1nBMxAAAAAAd/cuptoast-crumb.gif)
 ---
 
 ### GameDev
