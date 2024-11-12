@@ -1,4 +1,4 @@
-# Hi my name is Bruwwu ![]([https://media1.tenor.com/m/gAdDfvWDS0kAAAAd/crumb-crumbpop.gif)
+# Hi my name is Bruwwu ![](https://media1.tenor.com/m/gAdDfvWDS0kAAAAd/crumb-crumbpop.gif)
 ---
 
 ### GameDev
