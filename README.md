@@ -1,5 +1,4 @@
-# Hi my name is Bruwwu
-<img src="https://media1.tenor.com/m/gAdDfvWDS0kAAAAd/crumb-crumbpop.gif" width="300" height="300">
+# Hi my name is Bruwwu <img src="https://media1.tenor.com/m/gAdDfvWDS0kAAAAd/crumb-crumbpop.gif" width="50" height="50">
 
 
 ### GameDev
