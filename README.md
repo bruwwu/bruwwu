@@ -1,5 +1,6 @@
-# Hi my name is Bruwwu ![](https://media1.tenor.com/m/gAdDfvWDS0kAAAAd/crumb-crumbpop.gif)
----
+# Hi my name is Bruwwu
+<img src="https://media1.tenor.com/m/gAdDfvWDS0kAAAAd/crumb-crumbpop.gif" width="300" height="300">
+
 
 ### GameDev
 Gracias a LittleBigPlanet decidí tomar este camino en el desarrollo de videojuegos :D
