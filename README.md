@@ -1,4 +1,4 @@
-# Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Bruwwu
+# Hi ![](blob:https://web.whatsapp.com/dd8cdb76-5d26-4db9-bde5-7907009ec22e) My name is Bruwwu
 ---
 
 ### GameDev
